@@ -1,10 +1,10 @@
-# Perfil Academico
+Perfil Academico
 
-##**Rebeca Céspedes Serrano B91974**
+**Rebeca Céspedes Serrano B91974**
 
-###Carrera de Geodrafía
+Carrera de Geodrafía
 
-####Universidad de Costa Rica
+Universidad de Costa Rica
 
 You can use the [editor on GitHub](https://github.com/rebeca202000/Perfil-Academico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
