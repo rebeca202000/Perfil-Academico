@@ -6,6 +6,8 @@ Carrera de Geodrafía
 
 Universidad de Costa Rica
 
+(![image](https://user-images.githubusercontent.com/104148040/165228791-17c54fdb-bafc-4283-b9fb-5fadcf8936be.png)
+
 You can use the [editor on GitHub](https://github.com/rebeca202000/Perfil-Academico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
