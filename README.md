@@ -1,7 +1,11 @@
 # Perfil Academico
+
 ##**Rebeca Céspedes Serrano B91974**
+
 ###Carrera de Geodrafía
+
 ####Universidad de Costa Rica
+
 You can use the [editor on GitHub](https://github.com/rebeca202000/Perfil-Academico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
