@@ -10,7 +10,7 @@ Universidad de Costa Rica
 
 _Importancia de la Geografía_ 
 
-La Geografía es una actitud hacia la vida; representa conocer todo nuestro ambiente natural y social, desde una perspectiva integrada. Esta mirada nos permite hacer un uso más eficiente de los limitados recursos que nos rodean. Más información[Basic writing and formatting syntax](https://sociales.uprrp.edu/geografia/el-departamento/#:~:text=La%20Geograf%C3%ADa%20es%20una%20actitud,limitados%20recursos%20que%20nos%20rodean.)
+La Geografía es una actitud hacia la vida; representa conocer todo nuestro ambiente natural y social, desde una perspectiva integrada. Esta mirada nos permite hacer un uso más eficiente de los limitados recursos que nos rodean. [Más información](https://sociales.uprrp.edu/geografia/el-departamento/#:~:text=La%20Geograf%C3%ADa%20es%20una%20actitud,limitados%20recursos%20que%20nos%20rodean.)
 
 
 You can use the [editor on GitHub](https://github.com/rebeca202000/Perfil-Academico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
