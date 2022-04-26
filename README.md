@@ -1,6 +1,6 @@
-#**Perfil Academico**
+**Perfil Academico**
 
-#Rebeca Céspedes Serrano B91974
+Rebeca Céspedes Serrano B91974
 
 Carrera de Geodrafía
 
@@ -10,10 +10,8 @@ Universidad de Costa Rica
 
 _Importancia de la Geografía_ 
 
-La Geografía es una actitud hacia la vida; representa conocer todo nuestro ambiente natural y social, desde una perspectiva integrada. Esta mirada nos permite hacer un uso más eficiente de los limitados recursos que nos rodean. [Más información](https://sociales.uprrp.edu/geografia/el-departamento/#:~:text=La%20Geograf%C3%ADa%20es%20una%20actitud,limitados%20recursos%20que%20nos%20rodean.)
+La Geografía es una actitud hacia la vida; representa conocer todo nuestro ambiente natural y social, desde una perspectiva integrada. Esta mirada nos permite hacer un uso más eficiente de los limitados recursos que nos rodean.Un geógrafo no solo conoce dónde están los recursos naturales y humanos sino cómo y cuándo utilizarlos eficientemente. En la sociedad hedonista en que vivimos es difícil entender esta responsabilidad histórica. Nuestro mundo está lleno de personas que creen que la Geografía se limita a memorizar países, capitales, ríos, montañas y dibujar mapas. Estudiar Geografía genera la impresión que es parte de la preparación para ser maestro de estudios sociales o ambientalista; por eso, muchos hemos enfrentado miradas y gestos de incredulidad, así como comentarios y preguntas cuando decimos que estudiamos Geografía. [Más información](https://sociales.uprrp.edu/geografia/el-departamento/#:~:text=La%20Geograf%C3%ADa%20es%20una%20actitud,limitados%20recursos%20que%20nos%20rodean.)
 
-
-You can use the [editor on GitHub](https://github.com/rebeca202000/Perfil-Academico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
